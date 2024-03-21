@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<title>IPGames.GitHub.com</title>
+<link rel="icon" type="image/png" href="https://rare-gallery.com/thumbnail/1366437-gta-games-hd-4k-5k-2021-games.jpg">
+
+<center><h1><storng><p style="background-color: #ee00ff">IPGames.github.com</p></storng></h1></center>
+<body bgcolor="black">
+<br>
+<br>
+<center>
+<a href="https://github.com/12pecur/IPgames" style="color:#ee00ff">Download again from page</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/12pecur/IPgames" style="color:#ee00ff">Download HTML as .txt</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/12pecur/IPgames/blob/main/README.md" style="color:#ee00ff">Download README as .md</a>
+</center>
+<br>
+
+<center>
+<img src="https://rare-gallery.com/thumbnail/1366437-gta-games-hd-4k-5k-2021-games.jpg" width="290" height="150">
+<img src="https://rare-gallery.com/thumbnail/1366437-gta-games-hd-4k-5k-2021-games.jpg" width="290" height="150">
+<img src="https://rare-gallery.com/thumbnail/1366437-gta-games-hd-4k-5k-2021-games.jpg" width="290" height="150">
+<img src="https://rare-gallery.com/thumbnail/1366437-gta-games-hd-4k-5k-2021-games.jpg" width="290" height="150">
+<img src="https://rare-gallery.com/thumbnail/1366437-gta-games-hd-4k-5k-2021-games.jpg" width="290" height="150">
+</center>
+
+</bg>
